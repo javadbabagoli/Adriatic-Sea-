@@ -1,0 +1,20 @@
+Data usage guide
+.................
+......................
+.................................................................................
+The data are based on nc file
+............................
+Zeta is the seasonal average for winter 2017 which are used for figures 5a, 6a,9a
+Salinity is the seasonal average for Spring 2016 which are used for figures 5b,6b,9b
+Temperature is the seasonal average for Fall 2018 which are used for figures 5d,6d,9d
+u,v are velocity components for summer 2018 are used for figures 5c,6c,9c
+.........................................................................................
+The data is based on txt format
+...............................
+core 2016, core 2017, core 2018 are files for plotting figure 15.
+core 2016 is for year 2016
+core 2016 is for year 2017
+core 2016 is for year 2018
+
+x means distance along longitude based on km 
+y means distance along latitude based on km 
